@@ -1,0 +1,50 @@
+body
+{
+	background-color: black;
+}
+p
+{
+	color: white;
+	font-size: 312.5%;
+	text-align: center;
+
+}
+img
+{
+	
+	margin:-18% 0 -30% 58%;
+	object-fit: cover;
+	width:30%;
+	height: 60%;
+	
+	
+}
+ .container {
+        width: 80%;
+        height: 60%;
+      }
+      
+button
+{
+background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 1% 2%;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  cursor: pointer;
+  margin:-20% 0 -30% 58%;
+  height:100%;
+  width: 100%;
+  }
+  .button
+  {
+  	width: 30%;
+    height: 60%;
+    margin-right: 85%;
+    margin-left: 5%;
+    margin-top: 2%;
+  }

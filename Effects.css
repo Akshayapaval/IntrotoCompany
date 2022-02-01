@@ -1,0 +1,47 @@
+html,
+body{
+margin:0 auto;
+width:100%;
+height:100%;
+background-color: black;
+
+}
+p,hr
+{
+	text-align: center;
+	font-size: 40px;
+	margin: 20px 0 auto;
+	color: white;
+	text-shadow: 3px 3px 1px blue;
+}
+#About
+{
+	width: 50%;
+	float:left;
+	
+}
+#pic
+{
+	background-color: #33FF57;
+	width:50%;
+	height: 100%;
+	float:right;
+	align-content: center;
+}
+img{
+	object-fit: cover;
+	margin:25% 10%;
+	height:70%;
+	width: 70%;
+   
+}
+li
+{
+	list-style-type: none;
+	font-size: 23px;
+	padding:2px; 
+    text-align:center;
+    color: orange;
+    cursor:pointer;
+    width:100%;
+}
